@@ -1,4 +1,9 @@
-# CS336 Spring 2025 Assignment 1: Basics
+# Implementation of Small language model on TinyStories
+
+
+This is a solution to the HW1 of Stanford CS 336 in 25Spring, which mainly contains an implementation from scratch on a small language model on the TinyStories dataset. 
+
+===================================================================================================================
 
 For a full description of the assignment, see the assignment handout at
 [cs336_spring2025_assignment1_basics.pdf](./cs336_spring2025_assignment1_basics.pdf)
