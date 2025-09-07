@@ -1,7 +1,7 @@
 # Implementation of Small language model on TinyStories
 
 
-This is a solution to the HW1 of Stanford CS 336 in 25Spring, which mainly contains an implementation from scratch on a small language model on the TinyStories dataset. 
+This is an from-scratch implementation of a small language model on the TinyStories dataset by following the instructions of HW1, Stanford CS 336 in 25Spring. 
 
 ===================================================================================================================
 
