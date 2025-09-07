@@ -3,7 +3,7 @@
 
 This is an implementation of a small language model on the TinyStories dataset by following the instructions of HW1, Stanford CS 336 in 25Spring. The following is the original content of the HW1 template.
 
-===================================================================================================================
+=================================================================
 
 For a full description of the assignment, see the assignment handout at
 [cs336_spring2025_assignment1_basics.pdf](./cs336_spring2025_assignment1_basics.pdf)
